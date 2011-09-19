@@ -1,5 +1,5 @@
 hello()
 {
-	greeting = "$*"
+	greeting="$*"
 	echo "hello ${greeting}"
 }
